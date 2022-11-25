@@ -5,8 +5,6 @@ Built with Node, Express, jQuery, SASS and PostgreSQL, Nonna on the go is food o
 When an order is placed the restaurant receives the order via SMS. The restaurant can then specify how long it will take to fulfill it. Once they provide this information, the website updates for the client and also notifies them via SMS.
 
 
-This project utilised ES6, NodeJS, Express, jQuery, SASS and PostgreSQL.
-
 
 ## Dependencies
 
